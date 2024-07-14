@@ -1,13 +1,13 @@
 # Window Text to RDS by: João Moleano
 
 # Destination path and file  
-$path = c:\rds\radiotext.txt
+$path = "C:\rds\radiotext.txt"
 
 # Refresh rate
 $refresh = 3
 
 # Process to monitor
-$app = mpv
+$app = "mpv"
 
 # Chars to remove from end (app name)
 $trim = 11
